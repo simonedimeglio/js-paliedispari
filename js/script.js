@@ -1,4 +1,4 @@
-// PALINDROMA
+// ESERCIZIO 1 - PALINDROMA
 
 // creo la funzione per invertire l'ordine delle lettere componenti la parola inserita
 function palindromReverseCheck(word){
@@ -33,7 +33,7 @@ if(userWord === reversedWord){
 
 // ------------------------------------------------------
 
-// PARI E DISPARI
+// ESERCIZIO 2 - PARI E DISPARI
 
 // chiedo all'utente la sentenza: PARI O DISPARI?
 var userSentence = prompt('pari o dispari ?');
